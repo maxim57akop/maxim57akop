@@ -47,6 +47,16 @@
 | Embedded | C syntax, structs, enums, bitmasks, diagnostics, drone logic |
 | Learning Path | STM32, FreeRTOS, PX4, MAVLink, C/C++ systems programming |
 
+### C Embedded Projects
+
+| Project | What I Practice |
+| --- | --- |
+| [Drone Battery Monitor](https://github.com/maxim57akop/drone-battery-monitor) | Battery states, warnings, flight time estimation |
+| [Temperature Logger](https://github.com/maxim57akop/temperature-logger) | Arrays, loops, min/max/average, overheating checks |
+| [Sensor Error Bitmask](https://github.com/maxim57akop/sensor-error-bitmask) | Bitwise operators, flags, diagnostic masks |
+| [Flight Mode Controller](https://github.com/maxim57akop/flight-mode-controller) | `enum`, `switch`, state machine transitions |
+| [Drone Status Struct](https://github.com/maxim57akop/drone-status-struct) | `struct`, grouped drone data, safety checks |
+
 ### GitHub Activity
 
 <div align="center">
@@ -62,7 +72,7 @@
 
 ```text
 Fullstack: Laravel APIs, WordPress integrations, clean UI implementation
-Embedded:  C/C++, STM32 basics, FreeRTOS concepts, PX4/MAVLink direction
+Embedded:  C projects, drone diagnostics, STM32 basics, FreeRTOS concepts
 Mindset:   Build, test, learn, improve, repeat
 ```
 
